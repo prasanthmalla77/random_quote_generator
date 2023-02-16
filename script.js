@@ -11,7 +11,7 @@ const quotes = {
     "- Booker T. Washington": '"Few things can help an individual more than to place responsibility on him, and to let him know that you trust him."'
   };
    
-  };
+ 
 
 
 document.querySelector("#generate").addEventListener("click", () => {
